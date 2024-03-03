@@ -1,0 +1,11 @@
+body{
+    background-color: beige;
+
+}
+.form{
+    margin-left: 40%;
+    margin-top: 25%;
+    border: 1px  solid black;
+    margin-right: 47%;
+    border-radius: 10px;
+}

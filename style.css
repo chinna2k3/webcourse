@@ -1,0 +1,90 @@
+* {
+   margin: 0; 
+    padding:0;
+    }
+li{
+    display: inline;
+    color: white;
+}
+li a{
+    
+    color: white;
+    padding-left: 30px;
+    margin-top: 5%;
+    padding-top: 1%;
+    
+    text-decoration: none;  
+    border-left: 1px white;
+    border-bottom: 10px white;
+    
+}
+li a:hover{
+    background-color: white;
+    color: black;
+    padding: 1%;
+   
+    
+}
+ul{ 
+    position:sticky;
+    top: 0;
+    width:98%;
+    margin-top: -0.5%;
+    padding-top: 0%;
+    padding-bottom:1%;
+    
+    background-color:black;
+    list-style-type: none;
+    text-align:center;
+}
+body{
+    margin-left:0;
+    padding: 0;
+    width: 100%;
+    
+    background-image: url(/images/tree.jpg);
+    background-repeat: no-repeat;
+    background-size: 1550px 550px;
+
+}
+.button{
+    background-color: orangered;
+    color: white;
+}
+.course{
+    padding-left: 50px;
+    padding-right: 50px;
+    height: fit-content;
+    
+    color: rgb(230, 73, 16);
+    margin-right:50px;
+    border:0;
+    
+    margin: 0;
+
+   
+}
+p.course{
+    background-color:orangered;
+    color: white;
+    text-align: center;
+    margin: 0px;
+    padding:10px 0px 10px 0px;
+    border:3px solid black;
+    border-radius:25px;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.first{
+    margin-left: 60px;
+    margin-top: 70px;
+    margin-bottom:0;
+    
+}
+.left{
+    margin: 0;
+    margin-top: 10px;
+    width: 100%;
+    
+}
+
